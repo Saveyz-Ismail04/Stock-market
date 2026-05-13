@@ -1,0 +1,1 @@
+This project of mine shows a stock makret with pre defined stocks and their prices. Users input their stock symbol and quantity for which their total investment is calculated . It is also saved as a txt file
